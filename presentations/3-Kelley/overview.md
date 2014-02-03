@@ -1,0 +1,8 @@
+# ERS-602-04
+_Wednesday, February 5, 2014_## Leader: Joe Kelley## Topic: Shelf Evolution, NC and TX
+Continental shelves have experienced both transgression and regression during past glacial-interglacial cycles. It has become dogma that modern coasts have inherited important aspects of their geomorphology from the antecedent geology, or from deposits left over from past sea level changes. 
+
+Here we look at two reviews of the shelf/coast of two very well studied locations. Texas is a low energy coast with an abundance of sediment to create past landforms and from which to generate sediment for modern landforms. North Carolina is a more sediment-starved area, with a narrow shelf and relatively large waves.## Reading List:
+- Anderson, J.B., Wallace, D.J., Simms, A.R., Rodriguez, A.B. and Milliken, K.T., 2013, Variable response to coastal environments of the northwestern Gulf of Mexico to sea-level rise and climate change: implications for future change: Marine Geology (accepted and in press).- Thieler, E.R., Foster, D.S., Himmelstoss, E.A. and Mallinson, D.J., 2014, Geologic framework of the northern North Carolina coast and its influence on coastal evolution: Marine Geology v. 348, p. 113-130.## Questions:
+1. What techniques/methods to the two papers bring to study their coasts?2. Texas looks at bays as well as the shelf, while NC does not. Is there likely a difference between NC and TX bay deposits?3. Is there a relationship between Pleistocene sedimentary deposits and contemporary coastal landforms?4. What are “sorted bedforms” and what do they indicate? Are they common in both areas?
+5. Why are there capes in NC and not in TX … or are there capes in TX?6. How was the massive amount of work funded in the two study areas?
